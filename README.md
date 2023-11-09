@@ -1,1 +1,3 @@
-# Follow-_List
+# Follow_List
+
+![Follow_list görünümü](gorunum.png)
